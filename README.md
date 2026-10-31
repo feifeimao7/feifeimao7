@@ -32,8 +32,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./分布/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./分布/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
     <img src="./分布/github-snake.svg" width="100%" alt="GitHub Contribution Snake">
   </picture>
 </div>
