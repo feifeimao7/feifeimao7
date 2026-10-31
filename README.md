@@ -26,31 +26,15 @@
 
 <img src="https://skillicons.dev/icons?i=python,matlab,github,git,vscode,linux,windows&theme=dark&perline=7" />
 
-<div align="center">
-
-## Engineering Simulation
-
 <p align="center">
   <img src="https://cdn.simpleicons.org/ansys/FFB71B" height="55" alt="ANSYS" />
   <img src="https://cdn.simpleicons.org/comsol/005A9C" height="55" alt="COMSOL" />
   <img src="https://cdn.simpleicons.org/siemens/009999" height="55" alt="Siemens" />
 </p>
-
-### Programming & Computing
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,matlab,c,cpp,git,github,vscode,linux&theme=dark" />
 </p>
-
-### CAD & Design
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/solidworks/FF0000" height="55" alt="SolidWorks" />
-  <img src="https://cdn.simpleicons.org/ptc/0070C0" height="55" alt="PTC Creo" />
-</p>
-
 </div>
-
 
 ## 🐍 GitHub Contribution Snake
 
