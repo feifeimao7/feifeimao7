@@ -35,27 +35,6 @@
   <img src="https://img.shields.io/badge/COMSOL-005A9C?style=for-the-badge&logo=comsol&logoColor=white" />
   <img src="https://img.shields.io/badge/ANSA-333333?style=for-the-badge&logoColor=white" />
 </p>
-
-### 💻 Programming & Computing
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab,c,cpp,git,github,vscode,linux&theme=dark" />
-</p>
-
-### 🧩 CAD & Design
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Creo-0070C0?style=for-the-badge&logo=ptc&logoColor=white" />
-</p>
-
-### ⚙️ Other Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-</p>
-
 </div>
 
 ## 🐍 GitHub Contribution Snake
