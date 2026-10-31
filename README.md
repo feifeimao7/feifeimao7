@@ -22,29 +22,7 @@
   <img src="https://skillicons.dev/icons?i=python,matlab,cpp,github,git,vscode" alt="Tech Stack" />
 </p>
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=feifeimao7&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feifeimao7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-## 🧊 3D贡献
-
-![3D贡献](./profile-3d-contrib/profile-night-view.svg)
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg">
-    <img src="dist/github-snake.svg" width="100%" alt="GitHub contribution snake" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="dist/ocean.gif" width="100%" alt="Ocean snake animation" />
-</p>
 
 ---
 
