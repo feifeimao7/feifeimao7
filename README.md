@@ -31,24 +31,13 @@
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg" />
-  <img src="./github-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./分布/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./分布/github-snake.svg">
+    <img src="./分布/github-snake.svg" width="100%" alt="GitHub Contribution Snake">
+  </picture>
 </div>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=feifeimao7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feifeimao7&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
