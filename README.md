@@ -1,29 +1,55 @@
-## Hi there 👋
-<h1 align="center">Hi, I'm Fei Fei 👋</h1>
 
-<h3 align="center">Technology · Engineering · AI · Automation</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub;Exploring+AI+%26+Technology;Engineering+meets+Innovation" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=FEIFEIMAO7&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
----
+# 👋 Hello, I'm feifeimao7
 
-## ⚡ About Me
+### 🚀 Engineering · Technology · Automation
 
-- 🔭 Exploring engineering simulation and intelligent automation
-- 🤖 Interested in AI applications and technology
-- 💻 Working with Python, MATLAB, C/C++ and engineering tools
-- 🚀 Building, learning and experimenting
+*Explore technology. Build something meaningful.*
 
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab,cpp,github,git,vscode" alt="Tech Stack" />
-</p>
-
-
+</div>
 
 ---
 
-<p align="center"><i>BUILD · CREATE · EXPLORE · REPEAT</i></p>
+## 🧑‍💻 About Me
+
+- 🔧 Interested in Engineering, Energy Systems and Simulation
+- 💻 Exploring Python, MATLAB, Fluent and AI Automation
+- ⚙️ Focused on engineering applications and practical projects
+- 🌱 Keep learning, keep building
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,matlab,github,git,vscode,linux,windows&theme=dark&perline=7" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/feifeimao7/feifeimao7/main/assets/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake" />
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=feifeimao7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feifeimao7&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 🔥 Keep Building
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:203A43,100:2C5364&height=100&section=footer&text=Keep%20Learning%20%7C%20Keep%20Creating&fontSize=22&fontColor=58A6FF&animation=fadeIn" width="100%" />
+
+</div>
