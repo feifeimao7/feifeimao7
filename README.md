@@ -26,16 +26,31 @@
 
 <img src="https://skillicons.dev/icons?i=python,matlab,github,git,vscode,linux,windows&theme=dark&perline=7" />
 
-### 🔬 Engineering Simulation
+<div align="center">
+
+## Engineering Simulation
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" />
-  <img src="https://img.shields.io/badge/Fluent-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" />
-  <img src="https://img.shields.io/badge/STAR--CCM%2B-0070C0?style=for-the-badge&logo=siemens&logoColor=white" />
-  <img src="https://img.shields.io/badge/COMSOL-005A9C?style=for-the-badge&logo=comsol&logoColor=white" />
-  <img src="https://img.shields.io/badge/ANSA-333333?style=for-the-badge&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/ansys/FFB71B" height="55" alt="ANSYS" />
+  <img src="https://cdn.simpleicons.org/comsol/005A9C" height="55" alt="COMSOL" />
+  <img src="https://cdn.simpleicons.org/siemens/009999" height="55" alt="Siemens" />
 </p>
+
+### Programming & Computing
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,matlab,c,cpp,git,github,vscode,linux&theme=dark" />
+</p>
+
+### CAD & Design
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/solidworks/FF0000" height="55" alt="SolidWorks" />
+  <img src="https://cdn.simpleicons.org/ptc/0070C0" height="55" alt="PTC Creo" />
+</p>
+
 </div>
+
 
 ## 🐍 GitHub Contribution Snake
 
