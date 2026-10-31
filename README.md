@@ -31,9 +31,6 @@
   <img src="https://cdn.simpleicons.org/comsol/005A9C" height="55" alt="COMSOL" />
   <img src="https://cdn.simpleicons.org/siemens/009999" height="55" alt="Siemens" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab,c,cpp,git,github,vscode,linux&theme=dark" />
-</p>
 </div>
 
 ## 🐍 GitHub Contribution Snake
@@ -42,7 +39,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
-    <img src="./分布/github-snake.svg" width="100%" alt="GitHub Contribution Snake">
+    <img src="./dist/github-snake.svg" width="100%" alt="GitHub Contribution Snake">
   </picture>
 </div>
 
