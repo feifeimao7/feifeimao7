@@ -29,12 +29,9 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feifeimao7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-## 🧊 3D Contribution
+## 🧊 3D贡献
 
-<p align="center">
-  <img src="./profile-night-view.svg" width="100%" alt="3D Contribution Profile" />
-</p>
-
+![3D贡献](./profile-3d-contrib/profile-night-view.svg)
 ## 🐍 Contribution Snake
 
 <p align="center">
